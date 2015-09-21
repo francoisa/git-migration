@@ -6,3 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+package "subversion"
+package "openjdk-7-jre"
+package "git-svn"
