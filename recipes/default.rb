@@ -9,3 +9,4 @@
 package "subversion"
 package "openjdk-7-jre"
 package "git-svn"
+gem_package("svn2git")
